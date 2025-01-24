@@ -30,15 +30,22 @@ EDA involved exploring the sales data to answer key questions, such as;
 
 ### Data Analysis
 Includes process of creating Pivot Tables and charts to answer the key questions.
+
 Labelling each chart 
 
 ### Result/Findings
 The analysis results are summarized as follows;
 The company sales doesn't have a specific monthly and year between the years 2015-2018.
 There was a steady increase in the company's sales starting from the year 2021-2020.
-The West region has the highest sales while the South has the lowest sales performance as well as the profit generated for the company.
-the Standard class was mostly used for advanced shipping option
+The West region has the highest sales while the South has the lowest sales performance.
+The Standard class shipping option was mostly used for advanced delivery.
+The West has the highest number of customers who selected the advance shipping options with the most sales while the east has the most number of customers who opted for shipping on time.
+The consumers in the West region prefered the office supplies
 
+### Recommendation
+Based on the analysis we recommend the following actions;
+Invest more in the quatity of goods available in the Western Region of the country to meet up order.
+The companies in the East, South, North and Central should make the advance shipping, Second class options available .
 
 ### Limitations
 I deleted the customer id column because its bogus and not needed in my analysis.
