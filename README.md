@@ -33,3 +33,14 @@ Includes process of creating Pivot Tables and charts to answer the key questions
 Labelling each chart 
 
 ### Result/Findings
+The analysis results are summarized as follows;
+The company sales doesn't have a specific monthly and year between the years 2015-2018
+There was a steady increase in the company's sales starting from the year 2021-2020
+
+### Limitations
+I deleted the customer id column because its bogus and not needed in my analysis
+I deleted the order id column because its bogus and not needed in my analysis
+I deleted the product name column because its bogous and not needed in my analysis
+I formatted the data in the date column for uniformity.
+I created a new column to accommodate the order_month and Ship_month to return the months of order and shipments
+I created a new column to generate the customer retention (as one time off or Returning customers)
